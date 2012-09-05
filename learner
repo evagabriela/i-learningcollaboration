@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<title>I-LearningCollaboration</title>
+<meta name="description" content="Page Description Goes Here" />
+<meta name="keywords" content="keywords go here separated by commas" />
+<link rel="Shortcut Icon" href="/favicon.ico" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+@import url(http://www.google.com/cse/api/branding.css);
+</style>
+<!--Please do not remove the code below.  This ensures the browser displays properly in Internet Explorer 6.0 -->
+<!--[if IE 6]>
+        <link rel="stylesheet" type="text/css" href="ie6.css" />
+<![endif]-->  
+</head>
+<body> 
+
+<div id="container">
+
+
+<div id="header">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="images/beta-minitester.png" alt="BETA"></img>
+
+
+<div id="tagline">"Connecting Educators with Learners Worldwide"</div>
+
+<!-- To re-position the tagline or change the color of the tagline text, font, etc. open the style.css file and adjust positioning for this attribute in the style.css. If you want to add an image instead use the HTML code for an image to place it here. -->
+
+<div id="logo"><img src="images/warningsign.png" width="304" height="124" alt="logo"/></div>  <!--replace with your own logo image or open logo.psd file in images folder in Photoshop and edit the logo text.    -->
+
+ <!--<div id="title">Your Text Title</div>   -->
+<!-- Remove the comment tags from around the above line if you do not have a logo and want to use text for your title.  Don't forget to comment out the logo line.   You can style this text by editing the #header #title attribut in the style.css -->
+
+
+<!-- Below is a sample banner for the header.  Remove the comment-out tags from around this line if you want to use it.   You can replace this with your own adSense code or another banner if you wish.  Edit the #headerBanner style in the style.css file to reposition the banner elsewhere.  Do not remove the <div>'s!-->
+
+<!--<div id="headerBanner"><img src="images/sampleBanner.jpg" alt="banner"> </div>-->
+
+
+<!-- SOCIAL ICONS START HERE  -->
+
+<div id="socialIcons">
+
+<ul>
+<li><a href="http://www.twitter.com"><img src="images/icons/twitter.png" width="16" height="16" alt="Twitter" border="0" /></a></li>
+<li><a href="http://www.facebook.com"><img src="images/icons/facebook.png" width="16" height="16" alt="Facebook" border="0" /></a></li>
+<li><a href="http://www.youtube.com"><img src="images/icons/youtube.png" width="16" height="16" alt="YouTube" border="0" /></a></li>
+
+</ul>
+
+</div>
+
+
+<!--Feel free to add more icons or remove the ones I have above.  Remember you can adjust the positioning by editing the #socialIcons style in the style.css file.  You can find others here http://icondock.com/free/vector-social-media-icons -->
+
+
+<!-- SOCIAL ICONS END HERE  -->
+
+</div>  
+
+
+
+
+<!-- 2nd HEADER MENU STARTS HERE -->
+
+
+<!-- If you don't want a menu here, feel free to remove this code altogether or comment it out like I've done by putting comment out marks around this sentence. -->
+
+<div id="topMenu2">
+
+<ul>
+<li> <a href="index.html">ABOUT US</a></li>
+<li><a href="educator.html">EDUCATOR/TUTOR</a></li>
+<li> <a href="learner.html">LEARNER/STUDENT</a></li>
+
+
+</ul>
+</div>
+
+<!-- 2nd HEADER MENU ENDS HERE -->
+
+
+
+<!--BEGIN MAIN CONTENT-->
+
+
+
+<div id="contentWrapper">
+
+<div id="content">
+  <h1>Who are we?</h1>
+ 
+  <p><img src="images/earthedu.jpg" alt="earthpicture" width="200" height="300" align="right" /> I-Learning Collaboration will be an online plataform that will allow worlwide educators and avid learners to connect.</p>
+  <p>Anyone interested in continuing or personalizing their learning process with educators/tutors will benefit from our service as well as those willing to share their knowledge and experience with the world.</p>
+  
+  
+  
+  <h3><center><strong>"Together we will be able to create a learning environment without borders"</strong></center> </h3>
+  
+<br>
+<br>  
+<br>
+<br><br>
+<br>
+  
+</div>
+</div>
+
+
+<!--END MAIN CONTENT-->
+
+<!--BEGIN LEFT COLUMN-->
+
+
+<div id="leftnav">
+
+<!-- START FACEBOOK LIKE BUTTON -->
+
+      <div id="fblike">
+      
+      <img src="images/icons/fbLike.jpg" alt="FB Like"></img>
+      
+      </div>
+      
+      <!-- Go here http://developers.facebook.com/docs/reference/plugins/like/ to create your own Like button code for your site and replace above code with your own.  -->
+      
+<!-- END FACEBOOK LIKE BUTTON -->
+
+<div class="MoreContent">
+<p>Follow our Beta process and support our cause 
+
+</div>
+
+
+
+
+</div>
+
+<!--END LEFT COLUMN-->
+
+
+
+
+
+<!--BEGIN RIGHT COLUMN-->
+
+
+
+<div id="sidebar">
+
+
+
+
+<p class="smalltext">
+We are currently in BETA "sign up" process. If you want to join the Early-Access Beta for I-Learning Collaboration, email us at contact@i-learningcollaboration.com </p>
+<img src="images/beta-minitester.png" alt="BETA"></img>
+
+
+</div>
+
+
+<!--END RIGHT COLUMN-->
+
+
+
+
+
+
+<!--START FOOTER-->
+
+<div align="center" id="footer">
+<p><a href="http://www.2createawebsite.com">ABOUT US</a>  |  <a href="http://www.2createawebsite.com">I AM AN EDUCATOR</a>  | <a href="http://www.2createawebsite.com">I AM AN AVID LEARNER</a> </p>
+<p class="smalltext">&copy; 2012 I-LearningCollaboration LLC - All Rights Reserved<br>Any questions or feedaback? <a href="http://www.EasyStarterTemplates.com">Contact Us</a></p>
+
+<!--Feel free to change the link above to your own affiliate link so you can earn a commission if someone buys the templates from your link.  Go to http://www.easystartertemplates.com/affiliates for details on how to sign-up to be an affiliate.  -->
+
+ <p><a class="disclaimer" href="#">Privacy Policy</a> | <a class="disclaimer" href="#">Disclaimer / Disclosure</a></p>
+
+</div>
+<!--END FOOTER-->
+
+</div>
+
+
+</body>
+
+</html>
