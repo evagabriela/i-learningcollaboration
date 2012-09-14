@@ -112,7 +112,7 @@ background-repeat: repeat-x;
 	list-style: none;
 	font-family: "Verdana", "Arial", Helvetica, sans-serif;
 	border-bottom: 1px solid #000; /* Controls bottom border color of menu links */
-	margin-left: 120px;  /* If you don't have enough links to fill up the menu, you can center them horizontally by adjusting the margin-left attribute.  */
+	margin-left: 100px;  /* If you don't have enough links to fill up the menu, you can center them horizontally by adjusting the margin-left attribute.  */
 	padding: 0;
 }
 #topMenu2 a {
